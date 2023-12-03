@@ -42,13 +42,4 @@
             <h1>НОМЕР ТЕЛ. +380681954645</h1>
         </footer>
     </body>
-</html>- 👋 Hi, I’m @Metchik112
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Metchik112/Metchik112 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+</html>
